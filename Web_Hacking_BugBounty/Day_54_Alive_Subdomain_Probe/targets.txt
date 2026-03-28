@@ -1,0 +1,5 @@
+yahoo.com
+google.com
+thisisafakedoumain12345.com
+testphp.vulnweb.com
+dead-server.yahoo.com

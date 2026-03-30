@@ -1,0 +1,29 @@
+
+[*] Bhai, hunting 'Ghosts' (old & hidden URLs) for testphp.vulnweb.com in the Wayback Machine...
+[*] Interacting with web.archive.org API... Please wait.
+
+[+] BOOM! 🎯 Found 11486 juicy URLs with parameters/scripts!
+
+ -> http://testphp.vulnweb.com/redir.php?r=https://www.seonews769.blogspot.com/
+ -> http://testphp.vulnweb.com/redir.php?r=http://seonews1772.blogspot.com/management.html
+ -> http://testphp.vulnweb.com/?cmd=if%28true%29%7B%3Cscript%3Ealert%28%27XSS%27%29%3C%2Fscript%3E%7D
+ -> http://testphp.vulnweb.com/redir.php?r=https://www.periodicos.ufam.edu.br/files/journals/59/articles/10860/6309354d51839.html
+ -> http://testphp.vulnweb.com/redir.php?r=https://new-port-news-education.blogspot.com/
+ -> http://testphp.vulnweb.com/redir.php?r=https://sohnasa.blogspot.com/
+ -> http://testphp.vulnweb.com/redir.php?r=https://firearms-sale.co/
+ -> http://testphp.vulnweb.com/redir.php?r=http://aboutblogging.org/
+ -> http://testphp.vulnweb.com/redir.php?r=http://seonews1611.blogspot.com/
+ -> http://testphp.vulnweb.com/redir.php?r=https%3A%2F%2Falfa-sisli8.weebly.com
+ -> http://testphp.vulnweb.com/redir.php?r=https://bakreyztech-fj.blogspot.com/
+ -> http://testphp.vulnweb.com/redir.php?r=https://cjstrata23.blogspot.com/
+ -> http://testphp.vulnweb.com:80/redir.php?r=https://www.anjali-khanna.in/kolkata-escorts.html
+ -> http://testphp.vulnweb.com/redir.php?r=http://https://seonews1692.blogspot.com//
+ -> http://testphp.vulnweb.com/redir.php?r=https://beachhome-cr.blogspot.com//
+ -> http://testphp.vulnweb.com/redir.php?r=http://indonesianormal72.weebly.com
+ -> http://testphp.vulnweb.com/artists.php?artist=0
+ -> http://testphp.vulnweb.com/admin/?C=M;O=
+ -> http://testphp.vulnweb.com/redir.php?r=https://assets.website-files.com/66001fa938088944d6cf0d2f/6632c17b928c9a1dc6f36bbf_40470182216.pdf
+ -> http://testphp.vulnweb.com/redir.php?r=https://seonews507.blogspot.com/
+
+[!] And many more... (Total: 11486 juicy endpoints found!)
+[*] Pro Tip: Real hacking mein hum is list ko ek file mein save karte hain.

